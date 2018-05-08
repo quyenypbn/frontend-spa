@@ -1,0 +1,38 @@
+.blog-content-three-img{
+    position: relative;
+    overflow: hidden;
+    height: 292px;
+}
+.blog-content-three-img:hover img{
+    -moz-transform: scale(2);
+    -webkit-transform: scale(2);
+    transform: scale(2);
+}
+.blog-content-three-img img{
+     max-width: 100%;
+    -moz-transition: all 2.5s;
+    -webkit-transition: all 2.5s;
+    transition: all 2.5s;
+    height: 292px;
+}
+
+===============
+Home
+ BLog grid 2 sidebar
+About 1
+FAQ 1 
+Product
+Product detail
+Contact 1
+Portfolio 1
+Service 1
+=================
+note
+=========================
+ <div class=" tab-pane fade text-style" id="slide-2-tab-1">
+ <div class="tab-panea fade in active text-style" id="tab2">
+ ::::::::::::
+ fade: để tạo hiệu ứng
+error
+============================
+responsive trang home: class="slide-index"
